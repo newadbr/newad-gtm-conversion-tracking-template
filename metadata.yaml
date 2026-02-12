@@ -2,5 +2,5 @@ homepage: "https://newad.com.br/"
 documentation: "https://github.com/newadbr/newad-gtm-conversion-tracking-template#readme"
 # Replace sha below with the full SHA from Commit 1 in the target repository.
 versions:
-  - sha: 863b2e7665803083dd5b035622600c1612b10b83
+  - sha: 903d583a63b9ccc6f88ccf2dceb1798b34b8dcf1
     changeNotes: Initial release.
